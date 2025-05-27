@@ -15,3 +15,4 @@ Run the scanner script:
 
 ```bash
 python3 port_scanner.py
+Enter target IP or domain when prompted 
