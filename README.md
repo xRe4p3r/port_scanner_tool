@@ -11,8 +11,12 @@ A beginner-friendly **Python port scanner** that checks TCP ports on a target an
 
 ## 🛠️ How to Use
 
-Run the scanner script:
-
+1. Clone the repo:
 ```bash
+git clone https://github.com/xRe4p3r/port_scanner_tool.git
+
+Run the script
+
+cd port_scanner_tool
 python3 port_scanner.py
 Enter target IP or domain when prompted 
