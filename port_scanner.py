@@ -1,7 +1,5 @@
 # port_scanner.py
 
-# port_scanner.py
-
 import socket
 import os
 from datetime import datetime
